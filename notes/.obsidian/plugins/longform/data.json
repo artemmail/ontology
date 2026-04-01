@@ -64,6 +64,7 @@
   "workflows": {
     "Default Workflow": {
       "name": "Default Workflow",
+      "description": "",
       "steps": [
         {
           "id": "strip-frontmatter",
