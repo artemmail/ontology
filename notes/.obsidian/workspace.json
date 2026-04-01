@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c1a428d2178012ba",
+        "id": "633f0aea1e678f1b",
         "type": "tabs",
         "children": [
           {
-            "id": "e6efadc53d5c65e3",
+            "id": "a5f6b51ac5b87cd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,18 +22,21 @@
             }
           },
           {
-            "id": "335b4331b3a57e64",
+            "id": "898f28201e1cabdb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20260331131954.png"
+                "file": "01 Основания/manuscript.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260331131954"
+              "icon": "lucide-file",
+              "title": "manuscript"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "кантор",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +88,19 @@
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
+          },
+          {
+            "id": "9666468250df7562",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -195,23 +209,44 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e6efadc53d5c65e3",
+  "active": "898f28201e1cabdb",
   "lastOpenFiles": [
-    "Pasted image 20260331131954.png",
     "01 Основания/Математика как онтология.md",
+    "Без названия.base",
+    "01 Основания/Онтологический жест.md",
+    "Pasted image 20260331131954.png",
     "99 Архив/Исходные файлы/Математика как онтология - почему философия неотделима от математического мышления.md",
-    "03 Онтологический жест/Формулы и короткие тезисы.md",
-    "04 Редакторские замечания/Замечания к математике и физике.md",
-    "03 Онтологический жест/Физика и онтологический жест.md",
-    "03 Онтологический жест/00 Оглавление раздела.md",
-    "02 Современность/Постмодерн как продуктивная система.md",
-    "02 Современность/Метамодерн и спекулятивный реализм.md",
-    "03 Онтологический жест/Антропность математики.md",
-    "01 Основания/Введение.md",
-    "01 Основания/Гераклит, Платон, Аристотель.md",
-    "Введение.md",
-    "Гераклит, Платон, Аристотель.md",
-    "Метамодерн и спекулятивный реализм.md",
-    "Математика как онтология - почему философия неотделима от математического мышления.md"
+    "01 Основания/manuscript.md",
+    "_lf-test-ru/Test Ru.md",
+    "_lf-test-ru/scenes/01.2 Гераклит, Платон, Аристотель.md",
+    "_lf-test-ru/scenes/01.1 Введение.md",
+    "_lf-test-ru/scenes/01 Основания.md",
+    "_lf-test-ru/scenes",
+    "_lf-test-ru",
+    "_lf-test-dots/Test Dots.md",
+    "_lf-test-dots/scenes/01.2 Child Two.md",
+    "_lf-test-dots/scenes/01.1 Child One.md",
+    "_lf-test-dots/scenes/01 Section.md",
+    "_lf-test-dots/scenes",
+    "_lf-test-dots",
+    "_lf-test-nested/Test Nested.md",
+    "_lf-test-nested/scenes/Scene Child 2.md",
+    "_lf-test-nested/scenes/Scene Child 1.md",
+    "_lf-test-nested/scenes/Scene Parent.md",
+    "_lf-test-nested/scenes",
+    "_lf-test-nested",
+    "_lf-test/Test Project.md",
+    "_lf-test/scenes/Scene A.md",
+    "_lf-test/scenes",
+    "_lf-test",
+    "01 Основания/longform-scenes/04.1 Замечания к математике и физике.md",
+    "01 Основания/longform-scenes/04 Редакторские замечания.md",
+    "01 Основания/longform-scenes/03.5 Физика и онтологический жест.md",
+    "01 Основания/longform-scenes/03.4 Формулы и короткие тезисы.md",
+    "01 Основания/longform-scenes/03.3 Опорные фрагменты.md",
+    "01 Основания/longform-scenes/03.2 Черновые наброски.md",
+    "01 Основания/longform-scenes/03.1 Антропность математики.md",
+    "01 Основания/longform-scenes/03 Онтологический жест.md",
+    "01 Основания/longform-scenes"
   ]
 }

@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "01 Основания/Онтологический жест.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2026-04-01T05:42:29.679Z",
+      "total": 17292,
+      "drafts": {
+        "01 Основания/Онтологический жест.md": {
+          "total": 17292,
+          "scenes": {
+            "01 Основания": 36,
+            "01.1 Введение": 528,
+            "01.2 Гераклит, Платон, Аристотель": 412,
+            "01.3 Математика как онтология": 5294,
+            "02 Современность": 37,
+            "02.1 Постмодерн как продуктивная система": 2469,
+            "02.2 Метамодерн и спекулятивный реализм": 681,
+            "03 Онтологический жест": 50,
+            "03.1 Антропность математики": 310,
+            "03.2 Черновые наброски": 3320,
+            "03.3 Опорные фрагменты": 608,
+            "03.4 Формулы и короткие тезисы": 433,
+            "03.5 Физика и онтологический жест": 2266,
+            "04 Редакторские замечания": 22,
+            "04.1 Замечания к математике и физике": 826
+          }
+        },
+        "_lf-test/Test Project.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "_lf-test-nested/Test Nested.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "_lf-test-dots/Test Dots.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "_lf-test-ru/Test Ru.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}
