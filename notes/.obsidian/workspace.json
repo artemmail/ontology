@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Основания/longform-scenes/01.3 Математика как онтология.md",
+                "file": "01 Основания/longform-scenes/03.5 Физика и онтологический жест.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.3 Математика как онтология"
+              "title": "03.5 Физика и онтологический жест"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Основания/manuscript.md",
+                "file": "01 Основания/longform-scenes/03.2 Черновые наброски.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "manuscript"
+              "title": "03.2 Черновые наброски"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "manuscript"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "мейя",
+                "query": "витгин",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,13 +223,27 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "a5f6b51ac5b87cd2",
+  "active": "d7eed992f912fe5e",
   "lastOpenFiles": [
-    "90 Longform/Сцены/02.2 Метамодерн и спекулятивный реализм.md",
+    "01 Основания/longform-scenes/Сильная позиция и оценка.md",
+    "01 Основания/longform-scenes/Витгенштейн и мир как факт.md",
+    "01 Основания/longform-scenes/Прошлое как эффект взгляда.md",
+    "01 Основания/longform-scenes/03.2 Черновые наброски.md",
+    "01 Основания/longform-scenes/03 Онтологический жест.md",
+    "Витгенштейн и мир как факт.md",
+    "01 Основания/longform-scenes/03.5 Физика и онтологический жест.md",
+    "01 Основания/manuscript.md",
+    "01 Основания/longform-scenes/03.3 Опорные фрагменты.md",
+    "90 Longform/Сцены/03.1 Антропность математики.md",
+    "90 Longform/Сцены/03.2 Черновые наброски.md",
     "01 Основания/longform-scenes/01.1 Введение.md",
     "01 Основания/longform-scenes/01.2 Гераклит, Платон, Аристотель.md",
     "01 Основания/longform-scenes/01.3 Математика как онтология.md",
-    "01 Основания/manuscript.md",
+    "01 Основания/longform-scenes/02.1 Постмодерн как продуктивная система.md",
+    "01 Основания/longform-scenes/04.1 Замечания к математике и физике.md",
+    "01 Основания/longform-scenes/02.2 Метамодерн и спекулятивный реализм.md",
+    "01 Основания/longform-scenes/03.4 Формулы и короткие тезисы.md",
+    "90 Longform/Сцены/02.2 Метамодерн и спекулятивный реализм.md",
     "01 Основания/Математика как онтология.md",
     "Без названия.base",
     "01 Основания/Онтологический жест.md",
@@ -240,26 +255,12 @@
     "_lf-test-ru/scenes/01 Основания.md",
     "_lf-test-ru/scenes",
     "_lf-test-ru",
-    "_lf-test-dots/Test Dots.md",
-    "_lf-test-dots/scenes/01.2 Child Two.md",
-    "_lf-test-dots/scenes/01.1 Child One.md",
-    "_lf-test-dots/scenes/01 Section.md",
     "_lf-test-dots/scenes",
     "_lf-test-dots",
-    "_lf-test-nested/Test Nested.md",
-    "_lf-test-nested/scenes/Scene Child 2.md",
-    "_lf-test-nested/scenes/Scene Child 1.md",
-    "_lf-test-nested/scenes/Scene Parent.md",
     "_lf-test-nested/scenes",
     "_lf-test-nested",
-    "_lf-test/Test Project.md",
-    "_lf-test/scenes/Scene A.md",
     "_lf-test/scenes",
     "_lf-test",
-    "01 Основания/longform-scenes/04.1 Замечания к математике и физике.md",
-    "01 Основания/longform-scenes/04 Редакторские замечания.md",
-    "01 Основания/longform-scenes/03.5 Физика и онтологический жест.md",
-    "01 Основания/longform-scenes/03.4 Формулы и короткие тезисы.md",
     "01 Основания/longform-scenes"
   ]
 }
