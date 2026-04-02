@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Основания/longform-scenes/03.5 Физика и онтологический жест.md",
+                "file": "01 Основания/longform-scenes/01.3 Математика как онтология.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.5 Физика и онтологический жест"
+              "title": "01.3 Математика как онтология"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Основания/longform-scenes/03.2 Черновые наброски.md",
+                "file": "01 Основания/longform-scenes/Прошлое как эффект взгляда.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.2 Черновые наброски"
+              "title": "Прошлое как эффект взгляда"
             }
           },
           {
@@ -225,20 +225,21 @@
   },
   "active": "d7eed992f912fe5e",
   "lastOpenFiles": [
-    "01 Основания/longform-scenes/Сильная позиция и оценка.md",
-    "01 Основания/longform-scenes/Витгенштейн и мир как факт.md",
+    "01 Основания/longform-scenes/01.3 Математика как онтология.md",
     "01 Основания/longform-scenes/Прошлое как эффект взгляда.md",
+    "01 Основания/longform-scenes/Витгенштейн и мир как факт.md",
+    "01 Основания/longform-scenes/03.5 Физика и онтологический жест.md",
     "01 Основания/longform-scenes/03.2 Черновые наброски.md",
+    "Анаксимандр и поэтическое время.md",
+    "01 Основания/longform-scenes/Сильная позиция и оценка.md",
     "01 Основания/longform-scenes/03 Онтологический жест.md",
     "Витгенштейн и мир как факт.md",
-    "01 Основания/longform-scenes/03.5 Физика и онтологический жест.md",
     "01 Основания/manuscript.md",
     "01 Основания/longform-scenes/03.3 Опорные фрагменты.md",
     "90 Longform/Сцены/03.1 Антропность математики.md",
     "90 Longform/Сцены/03.2 Черновые наброски.md",
     "01 Основания/longform-scenes/01.1 Введение.md",
     "01 Основания/longform-scenes/01.2 Гераклит, Платон, Аристотель.md",
-    "01 Основания/longform-scenes/01.3 Математика как онтология.md",
     "01 Основания/longform-scenes/02.1 Постмодерн как продуктивная система.md",
     "01 Основания/longform-scenes/04.1 Замечания к математике и физике.md",
     "01 Основания/longform-scenes/02.2 Метамодерн и спекулятивный реализм.md",
@@ -252,7 +253,6 @@
     "_lf-test-ru/Test Ru.md",
     "_lf-test-ru/scenes/01.2 Гераклит, Платон, Аристотель.md",
     "_lf-test-ru/scenes/01.1 Введение.md",
-    "_lf-test-ru/scenes/01 Основания.md",
     "_lf-test-ru/scenes",
     "_lf-test-ru",
     "_lf-test-dots/scenes",
