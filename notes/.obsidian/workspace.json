@@ -4,67 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "633f0aea1e678f1b",
+        "id": "2a4c6e5a84080dbc",
         "type": "tabs",
         "children": [
           {
-            "id": "9ca46b506373dad0",
+            "id": "6b053da6591c25b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Основания/longform-scenes/01.2 Гераклит, Платон, Аристотель.md",
+                "file": "01 Основания/longform-scenes/04.1 Замечания к математике и физике.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.2 Гераклит, Платон, Аристотель"
+              "title": "04.1 Замечания к математике и физике"
             }
           },
           {
-            "id": "ff5d2810e8cff180",
+            "id": "3d33c626f68589f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Основания/longform-scenes/Прошлое как эффект взгляда.md",
+                "file": "01 Основания/longform-scenes/спекулятивный реализм.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Прошлое как эффект взгляда"
+              "title": "спекулятивный реализм"
             }
           },
           {
-            "id": "6a1c6f64b41628ea",
+            "id": "036697231fdbe21d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Основания/Математика как онтология.md",
+                "file": "01 Основания/longform-scenes/метамодерн.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Математика как онтология"
-            }
-          },
-          {
-            "id": "f0e6a47cf589b432",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90 Longform/Сцены/03.2 Черновые наброски.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03.2 Черновые наброски"
+              "title": "метамодерн"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "микрос",
+                "query": "раф",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,16 +223,25 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f0e6a47cf589b432",
+  "active": "036697231fdbe21d",
   "lastOpenFiles": [
-    "01 Основания/manuscript.md",
-    "01 Основания/Математика как онтология.md",
-    "01 Основания/longform-scenes/дорожные заметки.md",
-    "01 Основания/longform-scenes/01.3 Математика как онтология.md",
+    "01 Основания/longform-scenes/спекулятивный реализм.md",
+    "01 Основания/longform-scenes/метамодерн.md",
+    "01 Основания/longform-scenes/Харман и ООО.md",
+    "01 Основания/longform-scenes/Философия и фигура философа.md",
+    "01 Основания/longform-scenes/02 Современность.md",
+    "01 Основания/longform-scenes/02.1 Постмодерн как продуктивная система.md",
     "01 Основания/longform-scenes/01.2 Гераклит, Платон, Аристотель.md",
+    "01 Основания/longform-scenes/01.3 Математика как онтология.md",
+    "01 Основания/manuscript.md",
+    "01 Основания/longform-scenes/Негативная витальность и трагизм в «Сто лет одиночества» Маркеса.md",
+    "01 Основания/longform-scenes/04.1 Замечания к математике и физике.md",
     "01 Основания/longform-scenes/Прошлое как эффект взгляда.md",
-    "90 Longform/Сцены/02.2 Метамодерн и спекулятивный реализм.md",
+    "01 Основания/Математика как онтология.md",
     "90 Longform/Сцены/03.2 Черновые наброски.md",
+    "01 Основания/longform-scenes/Витгенштейн и мир как факт.md",
+    "01 Основания/longform-scenes/дорожные заметки.md",
+    "90 Longform/Сцены/02.2 Метамодерн и спекулятивный реализм.md",
     "01 Основания/Гераклит, Платон, Аристотель.md",
     "90 Longform/Сцены/01.1 Введение.md",
     "90 Longform/Сцены/01 Основания.md",
@@ -257,15 +252,6 @@
     "01 Основания/longform-scenes/03 Онтологический жест.md",
     "Без названия.canvas",
     "01 Основания/longform-scenes/03.2 Черновые наброски.md",
-    "01 Основания/longform-scenes/Сильная позиция и оценка.md",
-    "01 Основания/longform-scenes/03.3 Опорные фрагменты.md",
-    "01 Основания/longform-scenes/02.2 Метамодерн и спекулятивный реализм.md",
-    "01 Основания/longform-scenes/02.1 Постмодерн как продуктивная система.md",
-    "01 Основания/longform-scenes/Витгенштейн и мир как факт.md",
-    "01 Основания/longform-scenes/03.5 Физика и онтологический жест.md",
-    "Анаксимандр и поэтическое время.md",
-    "Витгенштейн и мир как факт.md",
-    "90 Longform/Сцены/03.1 Антропность математики.md",
     "Без названия.base",
     "Pasted image 20260331131954.png",
     "_lf-test-ru/scenes",
