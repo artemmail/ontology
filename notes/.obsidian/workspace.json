@@ -4,39 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9a1d534497bd0f3b",
+        "id": "c089deba127c84fe",
         "type": "tabs",
         "children": [
           {
-            "id": "9c064a6da261ac3c",
+            "id": "8362c99671df2807",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Основания/longform-scenes/Харман и ООО.md",
+                "file": "01 Основания/longform-scenes/ИИ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Харман и ООО"
+              "title": "ИИ"
             }
           },
           {
-            "id": "a7aa9b1d28f32830",
+            "id": "e0d7ac2306e10118",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Основания/longform-scenes/Харман и ООО.md",
+                "file": "01 Основания/longform-scenes/Интернет и СМИ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Харман и ООО"
+              "title": "Интернет и СМИ"
             }
           },
           {
-            "id": "095bd393e4890691",
+            "id": "233298607009cda3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +50,63 @@
             }
           },
           {
-            "id": "0f16d39bc067709b",
+            "id": "1fff98a02ec2576f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Основания/longform-scenes/Постмодерн как продуктивная система.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Постмодерн как продуктивная система"
+            }
+          },
+          {
+            "id": "73f152731b60c227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Основания/longform-scenes/Финансовая система.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Финансовая система"
+            }
+          },
+          {
+            "id": "5fcd2e25f683245f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Основания/longform-scenes/Глобализм и постмодерн.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Глобализм и постмодерн"
+            }
+          },
+          {
+            "id": "018d5538e2d528fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Основания/longform-scenes/Война.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Война"
+            }
+          },
+          {
+            "id": "703a7179032d7c67",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,9 +118,23 @@
               "icon": "lucide-file",
               "title": "manuscript"
             }
+          },
+          {
+            "id": "d439732893dc2a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Основания/longform-scenes/черновики.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "черновики"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -96,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "декарт",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 585.5
   },
   "right": {
     "id": "8339246782d4c13b",
@@ -237,34 +307,34 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "095bd393e4890691",
+  "active": "703a7179032d7c67",
   "lastOpenFiles": [
-    "01 Основания/Онтологический жест.md",
-    "01 Основания/longform-scenes/пост-капитализм.md",
-    "01 Основания/longform-scenes/Глобализм и постмодерн.md",
+    "01 Основания/longform-scenes/Война.md",
     "01 Основания/manuscript.md",
-    "01 Основания/longform-scenes/01.3 Математика как онтология.md",
-    "90 Longform/Сцены/01.3 Математика как онтология.md",
+    "01 Основания/longform-scenes/Глобализм и постмодерн.md",
+    "01 Основания/longform-scenes/Финансовая система.md",
+    "01 Основания/longform-scenes/Постмодерн как продуктивная система.md",
+    "01 Основания/longform-scenes/Политика.md",
+    "01 Основания/longform-scenes/пост-капитализм.md",
+    "01 Основания/longform-scenes/Интернет и СМИ.md",
+    "01 Основания/longform-scenes/Рабочие процессы и технологии управления.md",
+    "01 Основания/longform-scenes/Преступность.md",
+    "01 Основания/longform-scenes/Вывод.md",
+    "01 Основания/longform-scenes/ИИ.md",
+    "01 Основания/longform-scenes/черновики.md",
+    "01 Основания/longform-scenes/Постмодерн втягивает и переваривает.md",
+    "01 Основания/longform-scenes/Искусство и культура.md",
     "90 Longform/Сцены/03.2 Черновые наброски.md",
+    "01 Основания/longform-scenes/01.3 Математика как онтология.md",
+    "01 Основания/longform-scenes/надиктовки 20 апр.md",
+    "01 Основания/longform-scenes/dsfsdf.md",
+    "01 Основания/longform-scenes/платон математика аристотель.md",
+    "01 Основания/longform-scenes/Анализ черновиков философской работы.md",
+    "01 Основания/longform-scenes/взгляд.md",
+    "01 Основания/longform-scenes/деррида 23 впр.md",
+    "01 Основания/longform-scenes/надиктовки 22 апр.md",
     "01 Основания/longform-scenes/Untitled 2.md",
-    "01 Основания/longform-scenes/пост-постмодерн.md",
     "01 Основания/longform-scenes/Харман и ООО.md",
-    "01 Основания/longform-scenes/диагноз эпохе.md",
-    "01 Основания/longform-scenes/Философия и фигура философа.md",
-    "01 Основания/longform-scenes/02.1 Постмодерн как продуктивная система.md",
-    "90 Longform/Сцены/Глобализм и постмодерн.md",
-    "Глобализм и постмодерн.md",
-    "01 Основания/longform-scenes/стравинский.md",
-    "01 Основания/longform-scenes/Untitled 1.md",
-    "01 Основания/longform-scenes/Untitled.md",
-    "90 Longform/Сцены/02.1 Постмодерн как продуктивная система.md",
-    "01 Основания/longform-scenes/жертва.md",
-    "90 Longform/Сцены/03.3 Опорные фрагменты.md",
-    "01 Основания/longform-scenes/03.2 Черновые наброски.md",
-    "01 Основания/longform-scenes/дорожные заметки.md",
-    "90 Longform/Сцены/Системный анализ философской работы.md",
-    "01 Основания/longform-scenes/03.5 Физика и онтологический жест.md",
-    "01 Основания/longform-scenes/ЧЕРНОВИК ФИЗИКА НАЛИЧНОГО ПРОШЛОГО И ПРИНЦИП САМОСОГЛАСОВАННОСТИ.md",
     "Без названия.canvas",
     "Без названия.base",
     "Pasted image 20260331131954.png",
